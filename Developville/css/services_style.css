@@ -1,18 +1,13 @@
 .title {
 	font-family: Lobster, sans-serif;
-	font-size: 72px;
+	font-size: 96px;
 	color: black;
-	text-align: center;
-	}
-
-.col-md-4 {
 	text-align: center;
 }
 
-h3 {
-	font-family: Ubuntu, sans-serif;
-	color: black;
-	text-align: center;
+.col-md-8 {
+	height: 350px;
+	width: 350px;
 }
 
 body {
