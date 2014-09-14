@@ -1,6 +1,18 @@
+.contact {
+	text-align: center;
+}
+
+.feedback {
+	font-family: Helvetica, sans-serif;
+}
+
+.textarea {
+	text-align: center;
+}
+
 .form-inline {
 	text-align: center;
-	margin: 15px;
+	margin: 10px;
 }
 
 .submit {
