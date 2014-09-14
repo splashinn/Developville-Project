@@ -1,0 +1,63 @@
+
+
+.title {
+	font-family: Lobster, sans-serif;
+	font-size: 72px;
+	color: black;
+}
+
+.info {
+	float: right;
+}
+
+.staff {
+	font-family: Ubuntu, sans-serif;
+}
+
+.col-md-4 {
+	text-align: center;
+}
+
+h3 {
+	font-family: Ubuntu, sans-serif;
+	color: black;
+	text-align: center;
+}
+
+body {
+		padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+		background: url("http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_522ee1a4293f8_1.JPG") no-repeat center center scroll;
+		background-size: cover;
+}
+
+.kyle {
+	font-family: Ubuntu, sans-serif;
+	font-size: 10px;
+}
+
+.well {
+	font-family: Ubuntu, sans-serif;
+	font-size: 30px;
+}
+
+.navbar-fixed-top .nav {
+		padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+		padding: 0 15px;
+}
+
+footer {
+		padding: 30px 0;
+}
+
+@media(min-width:768px) {
+		body {
+				padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+		}
+
+		.navbar-fixed-top .navbar-brand {
+				padding: 15px 0;
+		}
+}
