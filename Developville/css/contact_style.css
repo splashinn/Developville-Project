@@ -1,15 +1,14 @@
+.form-inline {
+	text-align: center;
+	margin: 15px;
+}
 
-
-.title {
-	font-family: Lobster, sans-serif;
-	font-size: 96px;
-	color: black;
+.submit {
 	text-align: center;
 }
 
-.col-md-8 {
-	height: 450px;
-	width: 450px;
+.kyle {
+	font-family: Ubuntu, Helvetica, sans-serif;
 }
 
 body {
