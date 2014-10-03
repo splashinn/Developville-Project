@@ -8,6 +8,6 @@ __What's Done__
 - Single-page layout
 
 __What Needs To Be Done__
-- Setup as Rails app
+- Setup as Rails 4 app
 - Database
 - Could use more styling
