@@ -1,18 +1,18 @@
-Developville - Social Coding
-============================
+# Developville - Social Coding
+
 
 This is a personal project of mine. Don't expect it to be completed anytime soon, I only work on it in my free time.
 
-# What's Done
+## What's Done
 <br>Multi-page layout
 <br>Single-page layout
 
-# What Needs To Be Done
+## What Needs To Be Done
 <br>Setup as Rails 4 app
 <br>Database
 <br>Could use more styling
 
-# Contributing
+## Contributing
 <br>Feel free to fork and add your own styling, features, or whatever your brain can brew up.
 
 ## License
